@@ -20,7 +20,7 @@ The steps to create the Immersive Reader resource and configure the Azure AD aut
 
 ## Getting Started
 
-1. Create a `Immersive Reader` resource by searching for Immersive Reader.     
+1. In the Azure Portal, create a `Immersive Reader` resource by searching for Immersive Reader.     
     ![](./images/2022-03-08-13-44-29.png)
 
 2. Navigate to `Azure Active Directory` by searching for `Azure Active Directory`. 
