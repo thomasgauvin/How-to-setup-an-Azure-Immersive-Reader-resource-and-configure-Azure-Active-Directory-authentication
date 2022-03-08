@@ -15,7 +15,7 @@ The steps to create the Immersive Reader resource and configure the Azure AD aut
 
 ## Prerequisites
 
-* An Azure account with the necessary permissions
+* An Azure account with the necessary permissions as documented here https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal
 * A resource group in which you will create the resources
 
 ## Getting Started
